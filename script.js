@@ -2,7 +2,7 @@ const array = [
     {img:"/images/ngo.png",
      name:"NGO Website",
      description:"A website for ngo ",
-     link:"www.google.com"
+     link:"https://ngo-updated.vercel.app/"
     },
     {img:"/images/sportmate.png",
      name:"SportMate69",
@@ -24,6 +24,11 @@ const array = [
      description:"Animated webpage with gsap",
      link:"www.google.com"
     },
+    {img:"/images/devtal.png",
+        name:"DevtalTech ",
+        description:"A website for an company named devtal [Built on - Wordpress]",
+        link:"http://devtaltech.wuaze.com/"
+       },
     {img:"/images/Miranda.png",
      name:"Miranda Paper PORTFOLIO",
      description:"A traditional looking webpage",
